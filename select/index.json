@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ルードルーズダンス",
+  "base_artist": "minami",
+  "createdAt": "2026-03-19T10:22:12.467756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルードルーズダンス",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/01_ルードルーズダンス_美波.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RUDE LOSE DANCE (ルードルーズダンス)",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/02_RUDE_LOSE_DANCE_(ルードルーズダンス)_Minami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルードルーズダンス",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_01_ルードルーズダンス_美波.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ルードルーズダンス",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_02_ルードルーズダンス_美波.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ルードルーズダンス",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_03_ルードルーズダンス_美波.txt"
+    }
+  ]
+}
